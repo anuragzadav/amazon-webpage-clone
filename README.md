@@ -1,2 +1,2 @@
 # amazon-webpage-clone
-amazon webpage clone using CSS and HTML only
+amazon webpage clone(desktop site) using CSS and HTML only
